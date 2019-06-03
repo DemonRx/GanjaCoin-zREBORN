@@ -5,8 +5,8 @@ Ganjacoin is a PoS / Master Node hybrid Crypto-Currency.  Ganja Coin’s mission
 MasterNode cost <b>30,000 MRJA</b>
 <br>
 Algo:Quark
-<br>
-ZEROCOIN PROTOCOL
+<br><br>
+<b>ZEROCOIN PROTOCOL</b>
 
 Block Spacing:<b> 120 Seconds</b><br>
 Diff Retarget: <b>every Blocks</b><br>
@@ -33,8 +33,8 @@ REDIT : https://reddit.com/r/GanjaCoin/
 <br>
 <br>
 <h1>EXCHANGES </h1>
-MASTERNODEXCHANGE.COM : https://masternodexchange.com/markets/mrjabtc<br>
-STOCKS.EXCHANGE : https://app.stocks.exchange/en/basic-trade/pair/BTC/MRJA/1D
+SATOSHISHIFT.COM : https://satoshishift.com/trading/mrjabtct
+NOVAEXCHANGE.COM : https://novaexchange.com/market/BTC_MRJA/
 <br>
 <br>
 <h1> VPS AUTO INSTALL SCRIPT </h1><br>
