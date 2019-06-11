@@ -33,7 +33,7 @@ REDIT : https://reddit.com/r/GanjaCoin/
 <br>
 <br>
 <h1>EXCHANGES </h1>
-SATOSHISHIFT.COM : https://satoshishift.com/trading/mrjabtct<br>
+SATOSHISHIFT.COM : https://satoshishift.com/trading/mrjabtc<br>
 NOVAEXCHANGE.COM : https://novaexchange.com/market/BTC_MRJA/
 <br>
 <br>
