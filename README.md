@@ -14,7 +14,7 @@ Maturity: <b>30 Blocks</b><br>
 Stake Minimum Age: <b>1/2 Hours</b><br>
 <br><br>
 Default Network Ports:<br>
-Port: <b>12311/b><br>
+Port: <b>12311</b><br>
 RPC Port: <b>12310</b><br>
 <br><br>
 <h1> IMPORTANT LINKS</h1>
@@ -34,7 +34,6 @@ REDIT : https://reddit.com/r/GanjaCoin/
 <br>
 <h1>EXCHANGES </h1>
 SATOSHISHIFT.COM : https://satoshishift.com/trading/mrjabtc<br>
-NOVAEXCHANGE.COM : https://novaexchange.com/market/BTC_MRJA/
 <br>
 <br>
 <h1> VPS AUTO INSTALL SCRIPT </h1><br>
