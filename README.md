@@ -21,7 +21,7 @@ RPC Port: <b>12310</b><br>
 Website: https://ganjacoinpro.com<br>
 BTC ANN: https://bitcointalk.org/index.php?topic=2144531.0<br>
 Online Store: https://store.ganjacoinpro.com<br>
-SharedNode Status: https://sharednode.ganjacoinpro.com<br>
+SharedNode Status: https://sharednode.ganjacoinpro.com( DOWN )<br> 
 Discord: https://discord.gg/UxF8GJk<br>
 Explorer: https://explorer.ganjacoinpro.com/
 <br>
