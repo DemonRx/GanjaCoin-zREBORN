@@ -1,8 +1,8 @@
-<b><h2>Ganjacoin-REBORN</h2></b><br></br>
+<b><h2>Ganjacoin-zREBORN</h2></b><br></br>
 Ganjacoin is a PoS / Master Node hybrid Crypto-Currency.  Ganja Coin’s mission and aim is the integration of its utility into real world usage. Purchase Cannabis buds from dispensaries & coffee shops, buy growing guides, paraphernalia and seeds online by using Ganja Coin.
 <br>
 <br>
-MasterNode cost <b>300000 MRJA</b>
+MasterNode cost <b>300,000 MRJA</b>
 <br>
 Algo:Quark
 <br><br>
